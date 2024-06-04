@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Archivos de bloqueo
+package-lock.json
+yarn.lock
+
+# Archivos de configuración
+.env
+
+# Archivos compilados
+dist/
+build/
+
+# Archivos de registro
+*.log
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
